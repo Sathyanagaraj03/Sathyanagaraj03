@@ -1,6 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
+![MasterHead](https://cloud.google.com/blog/products/ai-machine-learning/how-steel-distributor-reinvents-its-data-science-ml-workflows-vertex-ai/)
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
