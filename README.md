@@ -25,7 +25,7 @@
 <br>🌱 I’m currently learning Data Science.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1LBba5ey9LQ2Th6Rm5n-JJAUuT30jn01S/view?usp=drive_link)<br>
 <br>💻 All of my projects are available at My [Projects](https://github.com/Sathyanagaraj03?tab=repositories)<br>
-<br>💬 Ask me about Python ,Java , Sql, NumPy,Pandas,Ml Dl,Mongo DB,AWS....<br>
+<br>💬 Ask me about Python,Java,Sql,NumPy,Pandas,Ml Dl,Mongo DB,AWS..<br>
 <br>📫 How to reach me ansathybarani@gmail.com<br>
 
 
