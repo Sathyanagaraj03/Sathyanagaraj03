@@ -1,6 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-![MasterHead](https://cloud.google.com/blog/products/ai-machine-learning/how-steel-distributor-reinvents-its-data-science-ml-workflows-vertex-ai/)
+![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
