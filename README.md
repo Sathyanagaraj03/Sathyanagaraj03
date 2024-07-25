@@ -17,12 +17,12 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img  align="right" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="45%" /></p>
+<p><img  align="right" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" width="45%" /></p>
 
 # 💫 About Me:
 
 🔭 I’m currently preparing for placements!.<br>
-<br>🌱 I’m currently learning MERN Stack.<br>
+<br>🌱 I’m currently learning Data Science.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1LBba5ey9LQ2Th6Rm5n-JJAUuT30jn01S/view?usp=drive_link)<br>
 <br>💻 All of my projects are available at My [Projects](https://github.com/Sathyanagaraj03?tab=repositories)<br>
 <br>💬 Ask me about Python ,Java , Sql, NumPy,Pandas,Ml Dl,Mongo DB,AWS....<br>
